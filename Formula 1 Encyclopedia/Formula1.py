@@ -6,11 +6,11 @@ import seaborn as sns
 import numpy as np
 
 # App title
-st.title("Formula 1 Driver Stats Explorer")
+st.title("Formula 1 Encyclopedia")
 
 # App description
 st.markdown("""
-This app provides a simple interface to explore Formula 1 driver stats and exploratory data analysis.
+This app provides a simple interface to explore Formula 1 data (e.g. drivers, teams, circuits, races, etc.).
 * Developed with Python, Streamlit, Pandas, etc.
 * Driver Stats retrieved from the following [API](https://documenter.getpostman.com/view/11586746/SztEa7bL).
 """)

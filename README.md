@@ -34,7 +34,15 @@ The obtained deep neural network model is capable of processing an image and cla
 
 **Technologies:** Python, Jupyter, TensorFlow, Matplotlib, etc.
 
-### 1.4. User Review Classification
+### 1.4. Name Classification
+
+This project served as an introduction to PyTorch and RNN's (Recurrent Neural Networks). The obtained deep neural network is capable of classifying names according to their country's origin (e.g. the surname "Coelho" originated in Portugal). Furthermore, this projects shows how powerful RNN's can be when applied to Natural Language Processing.
+
+**Keywords:** Deep Learning, Natural Language Processing, PyTorch, Recurrent Neural Networks, Classification.
+
+**Technologies:** Python, Jupyter, PyTorch, Scikit-learn, Pandas, Matplotlib, etc.
+
+### 1.5. User Review Classification
 
 This project contains two user review classification models, the first for product categories (e.g. books, technology) and the second for the review's sentiment (e.g. positive, neutral or negative).
 

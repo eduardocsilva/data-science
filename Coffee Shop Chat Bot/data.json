@@ -22,7 +22,8 @@
             "patterns": [
                 "Bye",
                 "See you later",
-                "Goodbye"
+                "Goodbye",
+                "I have to go"
             ],
             "responses": [
                 "See you later, thanks for visiting",
@@ -47,6 +48,7 @@
         {
             "tag": "items",
             "patterns": [
+                "What products do you provide?",
                 "Which items do you have?",
                 "What kinds of items are there?",
                 "What do you sell?"
@@ -59,6 +61,7 @@
         {
             "tag": "payments",
             "patterns": [
+                "What payment methods do you take?",
                 "Do you take credit cards?",
                 "Do you accept Mastercard?",
                 "Can I pay with Paypal?",

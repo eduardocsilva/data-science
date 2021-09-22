@@ -16,9 +16,15 @@ Two Book Recommendation Systems, the first one based on the Cosine Simmilarity b
 
 ---
 
-### 1.2. Chat Bot
+### 1.2. Coffee Shop Chat Bot
 
-(...)
+A simple Chat Bot, simulating an owner of a coffee shop. You can greet him, ask what's for sale and even ask him some jokes.
+
+The chat bot is supported by a neural network that detects the topic of your sentence (e.g. greeting, asking what's for sale), through Natural Language Processing, and then selects an appropriate response.
+
+**Keywords:** Chat Bot, Conversational System, Machine Learning, Natural Language Processing, Neural Network.
+
+**Technologies:** Python, Jupyter, PyTorch, NLTK, etc.
 
 ---
 

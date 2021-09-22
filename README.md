@@ -4,8 +4,6 @@ Repository dedicated to data science and machine learning projects (e.g. ML mode
 
 For more information about each project, check each project's README or the respective synopsis below.
 
----
-
 ## 1. Projects
 
 ### 1.1. Book Recommendation System
@@ -69,8 +67,6 @@ The classification is achieved through natural language processing techniques su
 **Keywords:** Machine Learning, Classification, Natural Language Processing, Text Tokenization, Word Occurence/Frequency, Bag of Words.
 
 **Technologies:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib, etc.
-
----
 
 ## 2. Future Projects
 

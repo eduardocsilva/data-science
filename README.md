@@ -18,7 +18,13 @@ Two Book Recommendation Systems, the first one based on the Cosine Simmilarity b
 
 ---
 
-### 1.2. Formula 1 Encyclopedia
+### 1.2. Chat Bot
+
+(...)
+
+---
+
+### 1.3. Formula 1 Encyclopedia
 
 A small project that served as an introduction to the Streamlit library, offering a simple front-end from which Formula 1 data (e.g. drivers, teams, circuits, races, etc.) can be browsed.
 
@@ -30,7 +36,7 @@ At the moment, only driver stats are browsable, but in the future, more data can
 
 ---
 
-### 1.3. Guitar Model Classification
+### 1.4. Guitar Model Classification
 
 This project served as an introduction to Tensorflow and its JavaScript implementation, allowing the trained model to be integrated in React.js front-end application, which can be consulted in the following [repository](https://github.com/eduardocsilva/guitar-classification-tensorflow) and [website](https://eduardocsilva.github.io/guitar-classification-tensorflow).
 
@@ -44,7 +50,7 @@ Later on, a PyTorch implementation was developed, having obtained a neural netwo
 
 ---
 
-### 1.4. Name Classification
+### 1.5. Name Classification
 
 This project served as an introduction to PyTorch and RNN's (Recurrent Neural Networks). The obtained deep neural network is capable of classifying names according to their country's origin (e.g. the surname "Coelho" originated in Portugal). Furthermore, this projects shows how powerful RNN's can be when applied to Natural Language Processing.
 
@@ -54,7 +60,7 @@ This project served as an introduction to PyTorch and RNN's (Recurrent Neural Ne
 
 ---
 
-### 1.5. User Review Classification
+### 1.6. User Review Classification
 
 This project contains two user review classification models, the first for product categories (e.g. books, technology) and the second for the review's sentiment (e.g. positive, neutral or negative).
 

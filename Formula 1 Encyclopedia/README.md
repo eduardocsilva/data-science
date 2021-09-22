@@ -12,6 +12,8 @@ At the moment, only driver stats are browsable, but in the future, more data can
 
 - **Dataset retrieved from the following [Formula 1 Stats API](https://documenter.getpostman.com/view/11586746/SztEa7bL).**
 
+---
+
 ## 2. Technologies
 
 - Python

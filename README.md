@@ -4,6 +4,8 @@ Repository dedicated to data science and machine learning projects (e.g. ML mode
 
 For more information about each project, check each project's README or the respective synopsis below.
 
+---
+
 ## 1. Projects
 
 ### 1.1. Book Recommendation System
@@ -13,6 +15,8 @@ Two Book Recommendation Systems, the first one based on the Cosine Simmilarity b
 **Keywords:** Machine Learning, Clustering, Cosine Simmilarity, Collaborative Filtering.
 
 **Technologies:** Python, Jupyter, Pandas, etc.
+
+---
 
 ### 1.2. Formula 1 Encyclopedia
 
@@ -24,15 +28,21 @@ At the moment, only driver stats are browsable, but in the future, more data can
 
 **Technologies:** Python, Streamlit, Pandas, etc.
 
+---
+
 ### 1.3. Guitar Model Classification
 
 This project served as an introduction to Tensorflow and its JavaScript implementation, allowing the trained model to be integrated in React.js front-end application, which can be consulted in the following [repository](https://github.com/eduardocsilva/guitar-classification-tensorflow) and [website](https://eduardocsilva.github.io/guitar-classification-tensorflow).
 
 The obtained deep neural network model is capable of processing an image and classifying the guitar contained in it, with a relatively low 60% accuracy, which can be improved by collecting more data/images for each of the guitar models and finer tuning of the neural network's architecture and training process.
 
+Later on, a PyTorch implementation was developed, having obtained a neural network with a much improved 97% accuracy, although very little was changed in its implementation.
+
 **Keywords:** Machine Learning, Classification, Neural Network, Deep Learning, TensorFlow.
 
 **Technologies:** Python, Jupyter, TensorFlow, Matplotlib, etc.
+
+---
 
 ### 1.4. Name Classification
 
@@ -41,6 +51,8 @@ This project served as an introduction to PyTorch and RNN's (Recurrent Neural Ne
 **Keywords:** Deep Learning, Natural Language Processing, PyTorch, Recurrent Neural Networks, Classification.
 
 **Technologies:** Python, Jupyter, PyTorch, Scikit-learn, Pandas, Matplotlib, etc.
+
+---
 
 ### 1.5. User Review Classification
 
@@ -51,6 +63,8 @@ The classification is achieved through natural language processing techniques su
 **Keywords:** Machine Learning, Classification, Natural Language Processing, Text Tokenization, Word Occurence/Frequency, Bag of Words.
 
 **Technologies:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib, etc.
+
+---
 
 ## 2. Future Projects
 

@@ -12,6 +12,8 @@ The classification is achieved through natural language processing techniques su
 
 - **Reviews retrieved from the following [Amazon user reviews dataset](https://nijianmo.github.io/amazon/index.html).**
 
+---
+
 ## 2. Technologies
 
 - Python

@@ -10,6 +10,8 @@ Two Book Recommendation Systems, the first one based on the Cosine Simmilarity b
 
 - **Dataset obtained from the following [source](https://www.kaggle.com/jealousleopard/goodreadsbooks)**.
 
+---
+
 ## 2. Technologies
 
 - Python
@@ -19,6 +21,8 @@ Two Book Recommendation Systems, the first one based on the Cosine Simmilarity b
 - Pandas
 
 * etc.
+
+---
 
 ## 3. Specific Topics
 

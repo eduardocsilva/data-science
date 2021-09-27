@@ -6,9 +6,9 @@ This project includes two Book Recommendation Systems, the first one based on th
 
 This way, a collaborative filtering recommendation system can recommend books that users may like, based on the ratings from users with a similar taste (e.g. if both user A and B like fantasy books and user B just read a new fantasy book that he loved, there's a high probability that user A might like it as well).
 
-On the other hand, a content/characteristics based recommendation system can still be used when there aren't a lot of users and reviews on the platform, as it has all the required information _a priori_ to provide recommendations to a user based on the type of books they enjoyed.
+On the other hand, a content based recommendation system can still be used when there aren't a lot of users and reviews on the platform, as it has all the required information _a priori_ to provide recommendations to a user based on the type of books they enjoyed.
 
-- **Keywords:** Machine Learning, Market Segmentation, Cosine Similarity, Collaborative Filtering.
+- **Keywords:** Machine Learning, Market Segmentation, Cosine Similarity, Content Based Recommendation, Collaborative Filtering.
 
 * **Content Based Recommendation System:**
 

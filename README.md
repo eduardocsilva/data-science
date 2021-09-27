@@ -54,7 +54,13 @@ Later on, a PyTorch implementation was developed, having obtained a neural netwo
 
 ---
 
-### 1.5. Name Classification
+### 1.5. Marketing Campaign Analysis
+
+(...)
+
+---
+
+### 1.6. Name Classification
 
 This project served as an introduction to PyTorch and RNN's (Recurrent Neural Networks). The obtained deep neural network is capable of classifying names according to their country's origin (e.g. the surname "Coelho" originated in Portugal). Furthermore, this projects shows how powerful RNN's can be when applied to Natural Language Processing.
 
@@ -64,7 +70,7 @@ This project served as an introduction to PyTorch and RNN's (Recurrent Neural Ne
 
 ---
 
-### 1.6. User Review Classification
+### 1.7. User Review Classification
 
 This project contains two user review classification models, the first for product categories (e.g. books, technology) and the second for the review's sentiment (e.g. positive, neutral or negative).
 

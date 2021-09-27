@@ -8,11 +8,11 @@ For more information about each project, check each project's README or the resp
 
 ### 1.1. Book Recommendation System
 
-Two Book Recommendation Systems, the first one based on the Cosine Simmilarity between books and the second one through collaborative filtering (still in development).
+This project includes two Book Recommendation Systems, the first one based on the Cosine Similarity between each book's content and characteristics, and the second one through collaborative filtering, a technique which, unlike the former, needs users to give ratings to the books they read, indicating if they liked it or not.
 
-**Keywords:** Machine Learning, Clustering, Cosine Simmilarity, Collaborative Filtering.
+**Keywords:** Machine Learning, Market Segmentation, Cosine Similarity, Collaborative Filtering.
 
-**Technologies:** Python, Jupyter, Pandas, etc.
+**Technologies:** Python, Jupyter, Scikit-learn, Pandas, etc.
 
 ---
 

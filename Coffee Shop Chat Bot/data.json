@@ -28,7 +28,7 @@
             "responses": [
                 "See you later, thanks for visiting",
                 "Have a nice day",
-                "Bye! Come back again soon."
+                "Bye! Come back again soon"
             ]
         },
         {
@@ -59,7 +59,47 @@
             ]
         },
         {
-            "tag": "payments",
+            "tag": "prices",
+            "patterns": [
+                "How much do your products cost?",
+                "Can you show me the prices of the products?",
+                "How much for a coffee?",
+                "How much for a tea?"
+            ],
+            "responses": [
+                "A coffee would be 60 cents and a tea would be 1 euro",
+                "60 cents for a coffee and 1 euro for a cup of tea"
+            ]
+        },
+        {
+            "tag": "coffee",
+            "patterns": [
+                "Can I have a coffee, please?",
+                "Do you provide expressso coffees?",
+                "I would like a cup of coffee, please",
+                "Do you sell coffees?",
+                "Do you sell expressos?"
+            ],
+            "responses": [
+                "Of course, here it is",
+                "Here it is, the best coffee in town!"
+            ]
+        },
+        {
+            "tag": "tea",
+            "patterns": [
+                "Can I have a tea, please?",
+                "Could you provide a cup of green tea, please?",
+                "I would like a cup of coffee, please",
+                "Do you sell tea?"
+            ],
+            "responses": [
+                "Of course, here it is",
+                "Here it is, the best tea in town!"
+            ]
+        },
+        {
+            "tag": "ask_payment",
             "patterns": [
                 "What payment methods do you take?",
                 "Do you take credit cards?",
@@ -68,8 +108,20 @@
                 "Are you cash only?"
             ],
             "responses": [
-                "We accept VISA, Mastercard and Paypal",
-                "We accept most major credit cards, and Paypal"
+                "We accept cash, VISA, Mastercard and Paypal",
+                "We accept cash, most major credit cards and Paypal"
+            ]
+        },
+        {
+            "tag": "give_payment",
+            "patterns": [
+                "Here is the money.",
+                "Here is my credit card",
+                "Here is the payment"
+            ],
+            "responses": [
+                "Thank you!",
+                "Thank you, would that be all?"
             ]
         },
         {
@@ -85,15 +137,54 @@
             ]
         },
         {
+            "tag": "time",
+            "patterns": [
+                "What time is it?",
+                "Can you tell me the time?",
+                "Can you tell me what time it is?"
+            ],
+            "responses": [
+                "It is !time"
+            ]
+        },
+        {
             "tag": "funny",
             "patterns": [
+                "Can you tell me a joke?",
                 "Tell me a joke!",
                 "Tell me something funny!",
                 "Do you know a joke?"
             ],
             "responses": [
-                "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-                "What did the buffalo say when his son left for college? Bison."
+                "Why did the hipster burn his mouth? He drank the coffee before it was cool",
+                "What did the buffalo say when his son left for college? Bison",
+                "I'm afraid for the calendar. Its days are numbered.",
+                "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!",
+                "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera.",
+                "What do you call a fish wearing a bowtie? Sofishticated."
+            ]
+        },
+        {
+            "tag": "about_him",
+            "patterns": [
+                "Can you tell about yourself?",
+                "Who are you?",
+                "How did a man like you end in here?",
+                "Tell me about yourself"
+            ],
+            "responses": [
+                "I'm just an old man with a passion for coffee and tea. When my father died, I decided to inherit this shop and bring the best coffee and tea to this beautiful town, just like my father always wanted. And, at the end of the day, I very much enjoy the company of my customers."
+            ]
+        },
+        {
+            "tag": "about_shop",
+            "patterns": [
+                "What can you tell about this shop?",
+                "When was this shop built?",
+                "Tell me more about this shop"
+            ],
+            "responses": [
+                "This was my father's shop. Back in the day, I used to spend my time here, helping my father with his customers and playing with kids outside. Nowadays, I am trying to keep its spirit alive, as I believe that was what my father's wish."
             ]
         }
     ]

@@ -1,5 +1,6 @@
 import random
 import json
+from datetime import datetime
 import numpy as np
 
 import nltk
@@ -95,6 +96,11 @@ while True:
     if prob.item() > 0.75:
         for intent in intents["intents"]:
             if tag == intent["tag"]:
-                print(f"{bot_name}: {random.choice(intent['responses'])}")
+                response = random.choice(intent['responses'])
+
+            if tag == "time" and "time" == intent["tag"]:
+                response = response.replace("!time", datetime.now().strftime("%H:%M"))
+
+        print(f"{bot_name}: {response}")
     else:
         print(f"{bot_name}: I do not understand...")
